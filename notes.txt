@@ -1,0 +1,2 @@
+This is my Git basic practice project.
+I learned how to use git add and git commit.
